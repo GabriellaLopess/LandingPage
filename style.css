@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+ }  
+
+ .final{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+
+ }
+
+ .center {
+    text-align: center; }
+
+.carousel-item {
+height: 100vh;
+min-height: 350px;
+background: no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.cstm-height-card .card-img-top {
+height: 100px;
+object-fit: cover;
+ }
+
+ 
+ .ml-50 {
+   margin-left: 50px;
+}
+
+.formulario {
+   display: flex;
+   flex-flow: row;
+   justify-content: center;
+   align-items: center; }
+
+.final{
+display: flex;
+flex-flow: row;
+justify-content: center;
+align-items: center;
+  
+   }
+  
